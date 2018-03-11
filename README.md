@@ -1,3 +1,5 @@
+# Rabbitmq 
+
 ->  Create a direct exchange called “hw3”
 
 -> Create a REST service
